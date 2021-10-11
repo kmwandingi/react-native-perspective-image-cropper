@@ -1,0 +1,6 @@
+fr/michaelvilleneuve/customcrop/BuildConfig.java
+ fr.michaelvilleneuve.customcrop.BuildConfig
+fr/michaelvilleneuve/customcrop/RNCustomCropPackage.java
+ fr.michaelvilleneuve.customcrop.RNCustomCropPackage
+fr/michaelvilleneuve/customcrop/RNCustomCropModule.java
+ fr.michaelvilleneuve.customcrop.RNCustomCropModule

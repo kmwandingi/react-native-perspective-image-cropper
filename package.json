@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "react-native-perspective-image-cropper@git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+      "E:\\Fiverr Projects\\React Native\\2 Screen\\verime-app"
+    ]
+  ],
+  "_from": "react-native-perspective-image-cropper@git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+  "_id": "react-native-perspective-image-cropper@git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#a7adca93eeed70374193209b4f8c388f58762cc6",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-perspective-image-cropper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-perspective-image-cropper@git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+    "name": "react-native-perspective-image-cropper",
+    "escapedName": "react-native-perspective-image-cropper",
+    "rawSpec": "git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+    "saveSpec": "git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+    "fetchSpec": "https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#a7adca93eeed70374193209b4f8c388f58762cc6",
+  "_spec": "git+https://git.tectsoft.com/public-libraries/react-native-perspective-image-cropper.git#master",
+  "_where": "E:\\Fiverr Projects\\React Native\\2 Screen\\verime-app",
+  "author": {
+    "name": "Michaël Villeneuve"
+  },
+  "bugs": {
+    "url": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper/issues"
+  },
+  "deprecated": false,
+  "description": "React native library allowing you to make custom crop and perspective corrections on photos",
+  "homepage": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper#readme",
+  "keywords": [
+    "react-native",
+    "scanner",
+    "crop"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-perspective-image-cropper",
+  "peerDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.0"
+}
