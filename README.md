@@ -6,7 +6,6 @@ A component that allows you to perform custom image crop and perspective correct
 
 ##### Designed to work with React Native Document Scanner
 
-https://github.com/Michaelvilleneuve/react-native-document-scanner
 
 ![Demo gif](https://raw.githubusercontent.com/Michaelvilleneuve/react-native-document-scanner/master/images/demo.gif)
 
